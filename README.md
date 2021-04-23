@@ -11,8 +11,8 @@ Note that all the files were given in .mat format.
 The data used was aqcuired from https://archive.physionet.org/. Database: BIDMC Congestive Heart Failure Database.
 
 ## How to Use
-After donwnloading the file onto the desktop, run matlab.
-Next, open the files and make sure that the code and the dataset are in the same folder being used by matlab. 
+After donwnloading the file onto the desktop, run MATLAB.
+Next, open the files and make sure that the code and the dataset are in the same folder being used by MATLAB. 
 Finally, run the code and enter the patient ECG reading you would like to test.
 
 ## Authors:
