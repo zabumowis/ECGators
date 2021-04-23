@@ -1,6 +1,7 @@
+# BME 3053C
 # Congestive Heart Failure Detection in ECGs using Signal Processing Techniques 
 
-## Dicription
+## Discription
 The repoitory includes the code created to perform 1-dimensional signal processing on ECG signals to detect congetsive heart failure.
 It also includes set of ECGs that can be used to test the code and the output.
 
