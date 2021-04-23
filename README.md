@@ -4,7 +4,7 @@
 ## Discription
 The repoitory includes the code created to perform 1-dimensional signal processing on ECG signals to detect congestive heart failure.
 It also includes a set of ECGs that can be used to test the code and the output.
-The signals provided are 10 seconds long. However, they can be longer if necessary. Out of them, two are normal and the rest present with congestive heart failure.
+The signals provided are 10 seconds long. However, they can be longer if necessary. Out of them, three are normal and the rest present with congestive heart failure.
 Note that all the files were given in .mat format.
 
 ## Data Source
