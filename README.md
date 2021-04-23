@@ -2,9 +2,9 @@
 # Congestive Heart Failure Detection in ECGs using Signal Processing Techniques 
 
 ## Discription
-The repoitory includes the code created to perform 1-dimensional signal processing on ECG signals to detect congetsive heart failure.
-It also includes set of ECGs that can be used to test the code and the output.
-Signals that are provided are 10 second long. However, they can be longer if necessary.
+The repoitory includes the code created to perform 1-dimensional signal processing on ECG signals to detect congestive heart failure.
+It also includes a set of ECGs that can be used to test the code and the output.
+The signals provided are 10 seconds long. However, they can be longer if necessary. Out of them, two are normal and the rest present with congestive heart failure.
 Note that all the files were given in .mat format.
 
 ## Data Source
